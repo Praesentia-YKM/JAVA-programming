@@ -37,6 +37,8 @@ public class INFOR {
 	public void setUserEmail(String userEmail) {
 		this.userEmail = userEmail;
 	}
-	
+	public void example() {
+		
+	}
 	
 }
