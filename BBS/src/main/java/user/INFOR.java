@@ -37,7 +37,7 @@ public class INFOR {
 	public void setUserEmail(String userEmail) {
 		this.userEmail = userEmail;
 	}
-	public void example1sdfsf() {
+	public void example1sdfssfsf() {
 		
 	}
 	
